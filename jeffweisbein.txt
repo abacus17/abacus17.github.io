@@ -14,9 +14,9 @@
 
 <p><span id="b">double</span> theWorkOnProgress (struct aBaCUS) {</p>
 
-    <p>aBaCUS.progressLevel = aBaCUS.organizer -> strength * aBaCUS.core -> strength;</p>
+    <p><span id="b">aBaCUS</span>.progressLevel = aBaCUS.organizer -> strength * aBaCUS.core -> strength;</p>
 
-    <p>// Computing, conquering and competing :)</p>
+    <p><span id="a">// Computing, conquering and competing :)</span></p>
 
     <p><span id="b">return</span> ((double)</p>
 <p>}</p>
