@@ -24,6 +24,6 @@
 <p>int main() {</p>
     <p>struct aBaCUS theUnitedDepartment = (struct aBaCUS) malloc (sizeof(struct aBaCUS));</p>
     <p>double progress = theWorkOnProgress(aBaCus);</p>
-    <p>printf( "aBaCUS fire set ON in %f progress", progress );</p>
+    <p>printf( "aBaCUS fire set ON in %f progress, Site Coming very soon", progress );</p>
     <p>return 0;</p>
 <p>}</p>
