@@ -1,29 +1,29 @@
 <span id="a">website@abacus.org.in</span>:<span id="b">~</span><span id="c">$</span> cat aBaCUSprogress.txt<br/><br/>
 
-<p><code>#</code>include </p><span id="a">"organizer_pillars.h"</span>
+<p><code>#</code>include <span id="a">"organizer_pillars.h"</span></p>
 <p><code>#</code>include <span id="a">"cores_set_active.h"</span></p>
 <p><code>#</code>include <span id="a">"work_intensely_started.h"</span></p>
 
-<p>struct aBaCUS {</p>
-    <p>int progressLevel;</p>
-    <p>aBaCuS * organizer;</p>
-    <p>char * assignedTask;</p>
-    <p>aBaCUS * core;</p>
-    <p>int strength;</p>
+<p><span id="b">struct</span> aBaCUS {</p>
+    <p><span id="b">int</span> progressLevel;</p>
+    <p><span id="b">aBaCuS</span> * organizer;</p>
+    <p><span id="b">char</span> * assignedTask;</p>
+    <p><span id="b">aBaCUS</span> * core;</p>
+    <p><span id="b">int</span> strength;</p>
 <p>};</p>
 
-<p>double theWorkOnProgress (struct aBaCUS) {</p>
+<p><span id="b">double</span> theWorkOnProgress (struct aBaCUS) {</p>
 
     <p>aBaCUS.progressLevel = aBaCUS.organizer -> strength * aBaCUS.core -> strength;</p>
 
     <p>// Computing, conquering and competing :)</p>
 
-    <p>return ((double)</p>
+    <p><span id="b">return</span> ((double)</p>
 <p>}</p>
 
-<p>int main() {</p>
-    <p>struct aBaCUS theUnitedDepartment = (struct aBaCUS) malloc (sizeof(struct aBaCUS));</p>
-    <p>double progress = theWorkOnProgress(aBaCus);</p>
-    <p>printf( "aBaCUS fire set ON in %f progress, Site Coming very soon", progress );</p>
+<p>int <span id="a">main()</span> {</p>
+    <p><span id="b">struct</span> aBaCUS theUnitedDepartment = (struct aBaCUS) malloc (sizeof(struct aBaCUS));</p>
+    <p><span id="b">double</span> progress = theWorkOnProgress(aBaCus);</p>
+    <p><span id="b">printf</span>( "aBaCUS fire set ON in <span id="b">%f</span> progress, Site Coming very soon", progress );</p>
     <p>return 0;</p>
 <p>}</p>
