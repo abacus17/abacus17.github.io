@@ -25,5 +25,5 @@
     <p><span id="b">struct</span> aBaCUS theUnitedDepartment = (struct aBaCUS) malloc (sizeof(struct aBaCUS));</p>
     <p><span id="b">double</span> progress = theWorkOnProgress(aBaCus);</p>
     <p><span id="b">printf</span>( "aBaCUS fire set ON in <span id="b">%f</span> progress, Site Coming very soon", progress );</p>
-    <p>return 0;</p>
+    <p><span id="b">return </span>0;</p>
 <p>}</p>
