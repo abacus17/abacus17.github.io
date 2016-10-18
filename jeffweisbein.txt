@@ -13,14 +13,10 @@
 };
 
 <span id="b">double</span> theWorkOnProgress (struct aBaCUS) {
-
     <span id="b">aBaCUS</span>.progressLevel = aBaCUS.organizer -> strength * aBaCUS.core -> strength;
-
     <span id="a">// Computing, conquering and competing :)</span>
-
     <span id="b">return</span> ((double)
 }
-
     int <span id="a">main()</span> {
     <span id="b">struct</span> aBaCUS theUnitedDepartment = (struct aBaCUS) malloc (sizeof(struct aBaCUS));
     <span id="b">double</span> progress = theWorkOnProgress(aBaCus);
