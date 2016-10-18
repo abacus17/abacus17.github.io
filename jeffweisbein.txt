@@ -1,16 +1,16 @@
 <span id="a">website@abacus.org.in</span>:<span id="b">~</span><span id="c">$</span> cat aBaCUSprogress.txt<br/><br/>
 
-<p><code>#</code>include <span id="a">"organizer_pillars.h"</span></p>
-<p><code>#</code>include <span id="a">"cores_set_active.h"</span></p>
-<p><code>#</code>include <span id="a">"work_intensely_started.h"</span></p>
+<code>#</code>include <span id="a">"organizer_pillars.h"</span>
+<code>#</code>include <span id="a">"cores_set_active.h"</span>
+<code>#</code>include <span id="a">"work_intensely_started.h"</span>
 
-<p><span id="b">struct</span> aBaCUS {</p>
-    <p><span id="b">int</span> progressLevel;</p>
-    <p><span id="b">aBaCuS</span> * organizer;</p>
-    <p><span id="b">char</span> * assignedTask;</p>
-    <p><span id="b">aBaCUS</span> * core;</p>
-    <p><span id="b">int</span> strength;</p>
-<p>};</p>
+<span id="b">struct</span> aBaCUS {
+    <span id="b">int</span> progressLevel;
+    <span id="b">aBaCuS</span> * organizer;
+    <span id="b">char</span> * assignedTask;
+    <span id="b">aBaCUS</span> * core;
+    <span id="b">int</span> strength;
+};
 
 <p><span id="b">double</span> theWorkOnProgress (struct aBaCUS) {</p>
 
