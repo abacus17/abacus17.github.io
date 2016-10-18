@@ -12,18 +12,18 @@
     <span id="b">int</span> strength;
 };
 
-<p><span id="b">double</span> theWorkOnProgress (struct aBaCUS) {</p>
+<span id="b">double</span> theWorkOnProgress (struct aBaCUS) {
 
-    <p><span id="b">aBaCUS</span>.progressLevel = aBaCUS.organizer -> strength * aBaCUS.core -> strength;</p>
+    <span id="b">aBaCUS</span>.progressLevel = aBaCUS.organizer -> strength * aBaCUS.core -> strength;
 
-    <p><span id="a">// Computing, conquering and competing :)</span></p>
+    <span id="a">// Computing, conquering and competing :)</span>
 
-    <p><span id="b">return</span> ((double)</p>
-<p>}</p>
+    <span id="b">return</span> ((double)
+}
 
-<p>int <span id="a">main()</span> {</p>
-    <p><span id="b">struct</span> aBaCUS theUnitedDepartment = (struct aBaCUS) malloc (sizeof(struct aBaCUS));</p>
-    <p><span id="b">double</span> progress = theWorkOnProgress(aBaCus);</p>
-    <p><span id="b">printf</span>( "aBaCUS fire set ON in <span id="b">%f</span> progress, Site Coming very soon", progress );</p>
-    <p><span id="b">return </span>0;</p>
-<p>}</p>
+    int <span id="a">main()</span> {
+    <span id="b">struct</span> aBaCUS theUnitedDepartment = (struct aBaCUS) malloc (sizeof(struct aBaCUS));
+    <span id="b">double</span> progress = theWorkOnProgress(aBaCus);
+    <span id="b">printf</span>( "aBaCUS fire set ON in <span id="b">%f</span> progress, Site Coming very soon", progress );
+    <span id="b">return </span>0;
+}
