@@ -1,5 +1,4 @@
 <span id="a">website@abacus.org.in</span>:<span id="b">~</span><span id="c">$</span> cat aBaCUSprogress.c
-
 <code>#</code>include <span id="a">"organizer_pillars.h"</span>
 <code>#</code>include <span id="a">"cores_set_active.h"</span>
 <code>#</code>include <span id="a">"work_intensely_started.h"</span>
